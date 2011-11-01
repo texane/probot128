@@ -608,8 +608,8 @@ void main(void)
   }
 #else
 
-  set_lpwm(150);
-  set_rpwm(10);
+  set_lpwm(100);
+  set_rpwm(100);
 
 #endif
 
